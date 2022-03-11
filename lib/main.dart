@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: '플러터 데모 앱'),
+      home: MyHomePage(title: '깃허브와 함께하는 플러터 데모 앱'),
     );
   }
 }
